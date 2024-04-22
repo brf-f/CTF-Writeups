@@ -26,3 +26,7 @@ Saving as `.tar` file
 extracting `.tar` files, navigate to correct layer, extract `layer.tar`
 
 now just `cat` contents of `/temp/secret`
+
+We get the flag:
+
+```FCSC{b38095916b2b578109cbf35b8be713b04a64b2b2df6d7325934be63b7566be3b}```
